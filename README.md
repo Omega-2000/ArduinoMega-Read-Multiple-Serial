@@ -8,6 +8,8 @@
 - Scheda collegata al DeviceTest o a un computer via USB, il dispositivo potrà interfacciarsi con le seriali collegate alla scheda
 
 ***FW e HW preparato su misura per effettuare e agevolare i 2 test che devono essere eseguiti sulla scheda di potenza Flexa Easylite/Welte***
+
+
 ***Quindi per utilizzare questo FW o questa configurazione su altre applicazioni, dovranno essere fatte delle modifiche per poter adattare questo sistema ad altri***
 
 **AMBIENTE DI SVILUPPO**
